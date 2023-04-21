@@ -16,10 +16,6 @@ tf.keras.utils.plot_model(model,show_shapes=True)
 
 ## Release History 版本历史
 
-* 0.2.1
-    * CHANGE: Update docs
-* 0.2.0
-    * CHANGE: Update docs
 * 0.1.0
     * Work in progress
 
