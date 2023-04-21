@@ -3,13 +3,14 @@
 > 分析金叉死叉對價格的影響力。
 
 
+## 可能要注釋掉
 ```
-20230101to20230410_h1_kd_golden_death_cross_test
+# 顯示模型
+tf.keras.utils.plot_model(model,show_shapes=True)
 ```
 
 
 
-## Contributing 贡献指南
 
 
 
